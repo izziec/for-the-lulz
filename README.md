@@ -22,7 +22,8 @@ Uses integer fixed-point arithmetic at 10-bit precision.
 ### donut.js
 Javascript source for both the ASCII and canvas rendering.
 
-donut*.c needs ANSI- or VT100-like emulation
+donut*.c needs ANSI- or VT100-like emulation.
+
 All donuts' credits to [@a1k0n ][1]
 
 [1]:
